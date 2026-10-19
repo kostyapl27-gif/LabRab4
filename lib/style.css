@@ -1,3 +1,17 @@
-h1{
-    color: red;
+.plotnikov-page {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+}
+
+.plotnikov-page h1 {
+    color: #333366;
+    text-align: center;
+}
+
+.plotnikov-page p {
+    text-indent: 0;
+    text-align: center;
 }
