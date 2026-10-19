@@ -15,3 +15,22 @@
     text-indent: 0;
     text-align: center;
 }
+
+.shokina-page {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #e8f4f8; 
+    border-radius: 10px;
+    border: 2px solid #b0d4e3;
+}
+
+.shokina-page h1 {
+    color: #00509e; 
+    text-align: center;
+}
+
+.shokina-page p {
+    text-indent: 0;
+    text-align: center;
+}
